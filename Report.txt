@@ -1,0 +1,12 @@
+* Task : Learn Python3 The Hard Way
+* Total Exercises : 52
+* Per Day Goal : 4
+* Estimated Completion : 13 Days
+* Start Date : 09/01/2020
+* End Date :
+
+# Daily Report
+
+* Day_01_(09/01/2020)
+  Exercise 1 - 4
+* Day_02_(10/01/2020)
